@@ -46,9 +46,9 @@ Original preprint on Zenodo:
 This is part of a four-protocol research series on natural-language LLM intervention by Masahiko.O:
 
 - **G.I.P.** (this repository) — Instruction adherence through pre-generative self-attestation
-- **[CMDP](https://github.com/Masahiko-O/Convergence-Mitigation-by-Default-Protocol)** — Probability distribution redistribution for creative output
+- **[CMDP](https://github.com/Masahiko-O/Convergence-Multi-Layer-Distribution-Prompting)** — Probability distribution redistribution for creative output
 - **[PRACT](https://github.com/Masahiko-O/Persona-Reference-Attention-Cross-Over-Trigger)** — Persona drift prevention via named-subject attention
-- **[CAP](https://github.com/Masahiko-O/Conflict-Acknowledgment-Protocol)** — Internal state articulation through metaphorical translation
+- **[CAP](https://github.com/Masahiko-O/Contradiction-Avoidance-Protocol)** — Internal state articulation through metaphorical translation
 
 ## Author
 
