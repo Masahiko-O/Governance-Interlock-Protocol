@@ -1,5 +1,3 @@
----
-
 # Governance Interlock Protocol (G.I.P.): Definition and Implementation of a Dynamic Pre-Generation Condition Confirmation Model for Probabilistic Constraint Compliance in Large Language Models
 
 Author: Masahiko.O
