@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "Governance Interlock Protocol (G.I.P.)"
+message: "If you use this work, please cite the preprint below."
+type: software
+authors:
+  - family-names: "O"
+    given-names: "Masahiko"
+date-released: 2026-05-05
+license: CC-BY-4.0
+repository-code: "https://github.com/Masahiko-O/Governance-Interlock-Protocol"
+url: "https://doi.org/10.5281/zenodo.19973903"
+identifiers:
+  - description: "The DOI of the original Zenodo preprint."
+    type: doi
+    value: "10.5281/zenodo.19973903"
+keywords:
+  - "prompt engineering"
+  - "large language models"
+  - "instruction adherence"
+  - "pre-generative control"
+  - "multi-layered defense"
+  - "drift prevention"
+  - "condition confirmation"
+  - "governance interlock protocol"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "O"
+      given-names: "Masahiko"
+  title: "Governance Interlock Protocol (G.I.P.): Definition and Implementation of a Dynamic Pre-Generation Condition Confirmation Model for Probabilistic Constraint Compliance in Large Language Models"
+  year: 2026
+  month: 5
+  doi: "10.5281/zenodo.19973903"
+  url: "https://doi.org/10.5281/zenodo.19973903"
+  publisher:
+    name: "Zenodo"
